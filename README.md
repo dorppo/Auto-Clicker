@@ -167,9 +167,3 @@ Makefile                  # build / app / run / dev / clean
 ## Use responsibly
 
 This tool synthesizes real mouse input at the system level. **Do not** use it to violate the terms of service of any game, website, or other software. The author is not responsible for accounts banned, work lost, or other consequences of misuse.
-
----
-
-## License
-
-No license file is currently included. Add one (e.g. MIT) if you intend to redistribute.
