@@ -1,6 +1,8 @@
 # Autoclicker
 
-A lightweight macOS menu bar autoclicker. Set an interval, pick a button, set a global hotkey, and let it click. Optional "Humanize" mode adds random jitter to interval, hold duration, and click position so the output doesn't look perfectly metronomic.
+I really like OP autoclicker, but I didn't like the implementation on MAC so I made one.
+
+This is a lightweight macOS menu bar autoclicker. Set an interval, pick a button, set a global hotkey, and let it click. Included is an optional "Humanize" mode that adds random jitter to interval, hold duration, and click position so the output doesn't look perfectly metronomic because why not, it's cool.
 
 No Dock icon, no signed installer, no telemetry — it's a single Swift Package you build locally.
 
@@ -166,4 +168,4 @@ Makefile                  # build / app / run / dev / clean
 
 ## Use responsibly
 
-This tool synthesizes real mouse input at the system level. **Do not** use it to violate the terms of service of any game, website, or other software. I am not responsible for accounts banned, work lost, or other consequences of misuse.
+This tool mimics real mouse input at the system level. **Do not** use it to violate the terms of service of any game, website, or other software. I am not responsible for accounts banned, work lost, or other consequences of misuse.
